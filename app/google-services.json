@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1012855635330",
+    "firebase_url": "https://reckbot-27de9.firebaseio.com",
+    "project_id": "reckbot-27de9",
+    "storage_bucket": "reckbot-27de9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012855635330:android:d2478f568e4b95fb",
+        "android_client_info": {
+          "package_name": "com.example.shravani.reckbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012855635330-arng6itqrh1mor0gsq1afn3n9elvs081.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shravani.reckbot",
+            "certificate_hash": "4d3181b55dd9403777c8a28e9ad3de1594a6c36a"
+          }
+        },
+        {
+          "client_id": "1012855635330-nvk84f27d9d23c2h44a2s4eupuq1lfeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKNzPJbPqG85f6N-Ti0YdKlJNbj8ZD4ek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012855635330-nvk84f27d9d23c2h44a2s4eupuq1lfeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
